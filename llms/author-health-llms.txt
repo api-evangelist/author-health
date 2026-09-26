@@ -1,0 +1,111 @@
+# author-health-stg.webflow.io
+
+> author-health-stg.webflow.io website pages and resources.
+
+## Main pages
+
+- [Cognitive + Emotional Health Care for Adults and Seniors](https://author-health-stg.webflow.io/)
+- [About Author Health: Adult, Caregiver, Senior Mental Health](https://author-health-stg.webflow.io/about)
+- [Support for Caregivers | Author Health](https://author-health-stg.webflow.io/caregivers)
+- [Reach Out | Aging Adult Cognitive & Mental Health Support](https://author-health-stg.webflow.io/contact)
+- [How Author Health Works to Serve Aging Adults](https://author-health-stg.webflow.io/how-it-works)
+- [Author Health News & Press: Senior Mental Health Care](https://author-health-stg.webflow.io/news-press)
+- [For Providers | Author Health Behavioral Health Referrals](https://author-health-stg.webflow.io/providers)
+- [Senior Mental Health Resources and Guides | Author Health](https://author-health-stg.webflow.io/resources)
+- [Symptoms, Conditions | Mental Health Support for Seniors](https://author-health-stg.webflow.io/symptoms-conditions)
+- [Why is Author Health Contacting Me? | Real Medical Care](https://author-health-stg.webflow.io/why-did-we-contact-you)
+
+## About
+
+- [Frequently Asked Questions about Author Health](https://author-health-stg.webflow.io/about/faqs)
+- [Meet the Leadership Team at Author Health](https://author-health-stg.webflow.io/about/leadership)
+- [Partnering for Better Senior Behavioral Care](https://author-health-stg.webflow.io/about/payers)
+- [Real Stories from Author Health: Senior Mental Health](https://author-health-stg.webflow.io/about/testimonials)
+
+## Blog
+
+- [Support For Anxiety, Depression, Sleep Changes  | Author Health](https://author-health-stg.webflow.io/blog/anxiety-depression-and-sleep-changes-in-older-adults)
+- [Tips on how talk about mental or memory changes | Author Health](https://author-health-stg.webflow.io/blog/how-to-start-a-conversation-with-a-loved-one-when-you-notice-concerning)
+- [Asking a Loved One to Get Their Symptoms Checked | Author Health](https://author-health-stg.webflow.io/blog/how-to-talk-to-your-loved-one-about-getting-their-symptoms-evaluated)
+- [Sundowning Syndrome and Senior Support  | Author Health](https://author-health-stg.webflow.io/blog/sundowning-syndrome-what-it-is-and-how-caregivers-can-help)
+- [Virtual Senior Mental Health Care vs. In-Person | Author Health](https://author-health-stg.webflow.io/blog/virtual-vs-in-person)
+
+## Caregivers
+
+- [Get Started: Mental or Behavioral Care for a Loved One](https://author-health-stg.webflow.io/caregivers/get-started)
+- [How Author Health Can Help Your Loved One | Senior Support](https://author-health-stg.webflow.io/caregivers/help-loved-one)
+
+## Guides
+
+- [Legal Choices | Healthcare Proxy, HIPAA, Advance Directives | Author Health](https://author-health-stg.webflow.io/guides/how-to-protect-your-loved-ones-wishes-and-care)
+- [When Do Aging Loved Ones Need More Help? | Author Health](https://author-health-stg.webflow.io/guides/is-this-just-growing-old-or-is-this-something-more-serious-how-do-i-know-when-someone-i-love-needs-more-help)
+- [Memory Changes? Mood Swings or Shifts? Know When to Get Help | Author Health](https://author-health-stg.webflow.io/guides/ive-been-feeling-different-lately-how-do-i-know-when-to-ask-for-help-10)
+- [What’s Healthy Aging? What to Look For. | Author Health](https://author-health-stg.webflow.io/guides/maybe-its-just-part-of-getting-older-maybe-its-something-more)
+- [Getting a Diagnosis Later in Life | Senior Mental Health | Author Health](https://author-health-stg.webflow.io/guides/seeking-answers)
+- [Treatment Options for Older Adults | Behavioral Health | Author Health](https://author-health-stg.webflow.io/guides/when-it-comes-to-treatment-theres-more-you-have-control-over-than-you-might-think)
+- [Helping a Parent Get a Diagnosis | Senior Mental Health | Author Health](https://author-health-stg.webflow.io/guides/when-someone-you-love-needs-answers)
+- [When to Get Urgent Help for a Loved One | Senior Support | Author Health](https://author-health-stg.webflow.io/guides/when-someone-you-love-starts-to-change-it-can-be-hard-to-know-what-is-normal-what-needs-care-and-whats-an-emergency)
+- [How Author Health Can Help You and the People You Care For | Author Health](https://author-health-stg.webflow.io/guides/you-deserve-care-too)
+
+## How-it-works
+
+- [Having a Team Means Less Stress and More Connected Care](https://author-health-stg.webflow.io/how-it-works/care-team)
+- [Alzheimer’s, Lewy Body, Mixed - Get Dementia Support](https://author-health-stg.webflow.io/how-it-works/dementia-care-program)
+- [Dementia GUIDE Support for Medicare | Author Health](https://author-health-stg.webflow.io/how-it-works/guide-program)
+- [Senior Mental Health Insurance and Coverage | Author Health](https://author-health-stg.webflow.io/how-it-works/insurance)
+- [Can Author Health Help Me?](https://author-health-stg.webflow.io/how-it-works/self-check-quiz)
+- [Behavioral Health Services for Older Adults | Author Health](https://author-health-stg.webflow.io/how-it-works/services)
+- [Find Care Near You | States Where Author Health is Available](https://author-health-stg.webflow.io/how-it-works/states)
+- [How Virtual Care Works at Author Health | Support from Home](https://author-health-stg.webflow.io/how-it-works/virtual-care-technology-set-up-assistance)
+
+## How-it-worksstates
+
+- [Mental Health Care for Older Adults in Arizona](https://author-health-stg.webflow.io/how-it-works/states/arizona)
+- [Mental Health Care for Older Adults in Florida](https://author-health-stg.webflow.io/how-it-works/states/florida)
+- [Mental Health Care for Older Adults in Illinois](https://author-health-stg.webflow.io/how-it-works/states/illinois)
+- [Mental Health Care for Older Adults in Indiana](https://author-health-stg.webflow.io/how-it-works/states/indiana)
+- [Mental Health Care for Older Adults in New Jersey](https://author-health-stg.webflow.io/how-it-works/states/new-jersey)
+- [Mental Health Care for Older Adults in Pennsylvania](https://author-health-stg.webflow.io/how-it-works/states/pennsylvania)
+- [Mental Health Care for Older Adults in Texas](https://author-health-stg.webflow.io/how-it-works/states/texas)
+
+## Leadership
+
+- [Dr. April Ivey | Director of Psychotherapy at Author Health | Auhor Health](https://author-health-stg.webflow.io/leadership/april-ivey)
+- [Dr. Ganesh Gopalakrishna | Senior Medical Director | Author Health | Auhor Health](https://author-health-stg.webflow.io/leadership/ganesh-gopalakrishna)
+- [Greg Muir | Auhor Health](https://author-health-stg.webflow.io/leadership/greg-muir)
+- [Joy Young | SVP of People | Author Health | Auhor Health](https://author-health-stg.webflow.io/leadership/joy-young-m3o5z)
+- [Katherine Hobbs, MD, MPH | CEO at Author Health | Auhor Health](https://author-health-stg.webflow.io/leadership/katherine-hobbs)
+- [Kevin Egge | SVP, Growth at Author Health | Auhor Health](https://author-health-stg.webflow.io/leadership/kevin-egge)
+- [Dr. Manjola Van Alphen | Chief Medical Officer Author Health | Auhor Health](https://author-health-stg.webflow.io/leadership/manjola-van-alphen)
+- [Nancy D. Gonzalez, RN, CCM, MBA | Director of Care Management at Author Health | Auhor Health](https://author-health-stg.webflow.io/leadership/nancy-gonzalez)
+
+## Legal
+
+- [Author Consent Policy | Author Health](https://author-health-stg.webflow.io/legal/author-consent-policy)
+- [Legal | Author Health](https://author-health-stg.webflow.io/legal/legal)
+- [Privacy Policy | Author Health](https://author-health-stg.webflow.io/legal/privacy-policy)
+- [Terms of Service | Author Health](https://author-health-stg.webflow.io/legal/terms-of-service)
+
+## News-press
+
+- [Behavioral Health Services in Pennsylvania and New Jersey | Author Health](https://author-health-stg.webflow.io/news-press/author-health-brings-specialized-behavioral-health-services-to-pennsylvania-and-new-jersey)
+- [Author Health Debuts to Care for Seniors with Serious Mental Illness | Author Health](https://author-health-stg.webflow.io/news-press/author-health-debuts-to-care-for-seniors-with-serious-mental-illness)
+- [Author Health Enters Three New States | Medicare Patients  | Author Health](https://author-health-stg.webflow.io/news-press/author-health-enters-three-new-states-accelerating-access-to-behavioral-health-care-for-medicare-patients)
+- [Author Health Officially Launches in CMS’s New Innovative Dementia Care Model | Author Health](https://author-health-stg.webflow.io/news-press/author-health-officially-launches-in-cmss-new-innovative-dementia-care-model)
+- [CMS’s New Innovative Dementia Care Model | Author Health](https://author-health-stg.webflow.io/news-press/author-health-officially-launches-in-cmss-new-innovative-dementia-care-model-1dzxq)
+
+## Providers
+
+- [How Author Health Partners with Referring Providers](https://author-health-stg.webflow.io/providers/how-it-works)
+- [Refer a Patient | Senior Mental and Behavioral Health](https://author-health-stg.webflow.io/providers/refer)
+
+## Symptoms-conditions
+
+- [Alzheimer’s Disease Signs & Support | Author Health](https://author-health-stg.webflow.io/symptoms-conditions/alzheimers-disease)
+- [Anxiety in Older Adults: Signs & Support | Author Health](https://author-health-stg.webflow.io/symptoms-conditions/anxiety)
+- [Signs & Support: Bipolar Disorder in Older Adults](https://author-health-stg.webflow.io/symptoms-conditions/bipolar-disorder)
+- [Depression in Older Adults: Signs & Support | Author Health](https://author-health-stg.webflow.io/symptoms-conditions/depression)
+- [Grief in Older Adults: Signs & Support | Author Health](https://author-health-stg.webflow.io/symptoms-conditions/grief)
+- [Get Ahead of Mild Cognitive Impairment With Care From Home](https://author-health-stg.webflow.io/symptoms-conditions/mild-cognitive-impairment)
+- [Dementia Signs & Support | Author Health](https://author-health-stg.webflow.io/symptoms-conditions/other-dementias)
+- [Substance Use Disorder in Seniors | Author Health](https://author-health-stg.webflow.io/symptoms-conditions/sud)

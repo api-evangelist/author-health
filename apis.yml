@@ -1,23 +1,87 @@
 aid: author-health
+
 name: Author Health
-description: 'Author Health is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/6a1f1f50a483d33e19f6ebe5/6a32ea0e488459c1cdab6348_b85b6e30a519ca1be2164de52e19ad11_Open%20Graph.png
+
+description: Author Health provides cognitive and emotional health care services for adults, seniors, and caregivers. It offers virtual and in‑person
+  therapy, psychiatry, and care management, focusing on conditions such as anxiety, depression, mild cognitive impairment, and dementia. The company
+  coordinates care teams, supports insurance coverage, and delivers personalized mental health support through its online platform.
+
 url: https://raw.githubusercontent.com/api-evangelist/author-health/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
-- Company
-apis: []
+- mental health
+- older adults
+- Medicare
+- care coordination
+- behavioral health
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/author-health-llms.txt
+- type: Hosts
+  url: hosts/author-health-hosts.yml
+- type: Vendors
+  url: vendors/author-health-vendors.yml
+- type: TermsOfService
+  url: https://authorhealth.com/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://authorhealth.com/legal/privacy-policy
+- type: Leadership
+  url: https://authorhealth.com/about/leadership
+- type: Documentation
+  url: https://authorhealth.com/guides/seeking-answers
+- type: Blog
+  url: https://authorhealth.com/blog/who-can-diagnose
+- type: GettingStarted
+  url: https://authorhealth.com/how-it-works/virtual-care-technology-set-up-assistance
+- type: GitHubOrganization
+  url: https://github.com/authorhealth
+- type: DomainSecurity
+  url: security/author-health-domain-security.yml
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://authorhealth.com/
+
+apis:
+- name: Author Health API
+  description: API documentation not publicly available; no machine‑readable contract found.
+  humanURL: https://authorhealth.com/guides/seeking-answers
+  baseURL: null
+  aid: author-health:author-health-api
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-09-26'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://www.nasdaqprivatemarket.com/
+    status: 200
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

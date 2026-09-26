@@ -1,0 +1,76 @@
+generated: '2026-09-26'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 5
+  own: 3
+  other_domain: 0
+  platform: 2
+  roles:
+  - api
+  - other
+  - source
+  - website
+hosts:
+- host: api.authorhealth.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: authorhealth.com
+  role: api
+  relation: own
+- host: author-health-stg.webflow.io
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: webflow.io
+  role: other
+  relation: platform
+- host: authorhealth.com
+  found_by:
+  - pointer
+  - apis[]
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - TermsOfService
+  - PrivacyPolicy
+  - Leadership
+  - Documentation
+  - Blog
+  - GettingStarted
+  - Website
+  serves:
+  - docs
+  - cdn
+  vendor: cloudflare
+  registrable_domain: authorhealth.com
+  role: website
+  relation: own
+- host: care.authorhealth.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: authorhealth.com
+  role: other
+  relation: own
+- host: github.com
+  found_by:
+  - pointer
+  types:
+  - GitHubOrganization
+  serves: []
+  registrable_domain: github.com
+  role: source
+  relation: platform
